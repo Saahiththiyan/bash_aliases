@@ -1,0 +1,5 @@
+alias gac='git add . && git commit -m'
+alias gst='git status'
+alias gl='git pull'
+alias gp='git push'
+alias gd='git diff'
